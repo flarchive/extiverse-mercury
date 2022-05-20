@@ -1,0 +1,47 @@
+{
+    "name": "extiverse/mercury",
+    "description": "The Extiverse extension to understand Flarum extension updates",
+    "keywords": [
+        "extension",
+        "flarum",
+        "extiverse",
+        "updates",
+        "notification"
+    ],
+    "type": "flarum-extension",
+    "license": "MIT",
+    "homepage": "https://extiverse.com",
+    "authors": [
+        {
+            "name": "Daniël Klabbers",
+            "email": "daniel@klabbers.email",
+            "homepage": "http://luceos.com"
+        }
+    ],
+    "require": {
+        "flarum/core": "^1.2.0",
+        "extiverse/api-client": "^0.2.1"
+    },
+    "require-dev": {
+        "extiverse/api-client": "@dev"
+    },
+    "extra": {
+        "flarum-extension": {
+            "title": "Mercury",
+            "category": "feature",
+            "icon": {
+                "name": "fas fa-dot-circle",
+                "backgroundColor": "#F9FAFC",
+                "color": "#B072E1"
+            }
+        },
+        "extiverse": {
+            "discuss": "https://discuss.flarum.org/d/27620"
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "Extiverse\\Mercury\\": "src/"
+        }
+    }
+}
