@@ -2,13 +2,17 @@
 
 > **Read-only archive of released versions of extiverse/mercury.** Not for installation: use [Packagist](https://packagist.org/packages/extiverse/mercury) or the [upstream repository](https://github.com/extiverse/mercury).
 
-**0** versions archived · Latest: [`0.2.0`](https://github.com/flarchive/extiverse-mercury/tree/archive/v0.2.0) · License: `MIT` · Flarum: `^1.2.0`
+**5** versions archived · Latest: [`0.2.0`](https://github.com/flarchive/extiverse-mercury/tree/archive/v0.2.0) · License: `MIT` · Flarum: `^1.2.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `0.1` | 2021-06-07 | `^1.0.0` | [Browse](https://github.com/flarchive/extiverse-mercury/tree/archive/v0.1) |
+| `0.1.1` | 2021-06-08 | `^1.0.0` | [Browse](https://github.com/flarchive/extiverse-mercury/tree/archive/v0.1.1) |
+| `0.1.2` | 2021-06-08 | `^1.0.0` | [Browse](https://github.com/flarchive/extiverse-mercury/tree/archive/v0.1.2) |
+| `0.1.3` | 2021-06-16 | `^1.0.0` | [Browse](https://github.com/flarchive/extiverse-mercury/tree/archive/v0.1.3) |
+| `0.2.0` | 2022-05-20 | `^1.2.0` | [Browse](https://github.com/flarchive/extiverse-mercury/tree/archive/v0.2.0) |
 
 Catalog entry: [packages/extiverse-mercury.json](https://github.com/flarchive/archive-index/blob/main/packages/extiverse-mercury.json)
 
